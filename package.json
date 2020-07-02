@@ -1,0 +1,36 @@
+{
+    "name": "autoparts",
+    "version": "1.0.0",
+    "description": "back-end api for application managing autoparts",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+      "body-parser": "^1.18.2",
+      "create-react-app": "^1.5.2",
+      "express": "^4.16.2",
+      "jwt": "^0.5.1",
+      "mongoose": "^5.0.7",
+      "password-hash": "^1.2.2"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/AnjaraRasolofo/autoparts.git"
+    },
+    "keywords": [
+      "autoparts",
+      "api",
+      "nodejs",
+      "reactjs",
+      "mongodb"
+    ],
+    "author": "Anjarasoa Solofondraibe",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/AnjaraRasolofo/autoparts/issues"
+    },
+    "homepage": "https://github.com/AnjaraRasolofo/autoparts#readme"
+  }
+  
